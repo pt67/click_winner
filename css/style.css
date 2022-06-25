@@ -1,0 +1,32 @@
+.floor{
+  width:500px;
+  margin:auto;
+  background:green;
+  height:100vh;
+}
+
+#time, #score-box{
+color:#fff;
+padding:5px 10px;
+} 
+
+#plane{
+border-radius: 50%;
+padding: 10px;
+height:50px;
+width: 50px;
+background:red;
+text-align:center;
+color:#fff;
+box-shadow: 10px 10px 60px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 60px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 60px 0px rgba(0,0,0,0.75);
+
+ -webkit-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;      
+  user-select: none;
+  
+cursor:pointer;  
+
+}
